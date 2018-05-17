@@ -66,9 +66,7 @@
              "video_duration": 600
          }
        ]
-      }
-    },
-    {
+      },
      "Movies": {
        "Recommended": [
          {
@@ -134,9 +132,7 @@
              "video_duration": 600
          }
        ]
-     }
-    },
-    {
+      }, 
      "Videos": {
        "Recommended": [
          {
@@ -186,8 +182,7 @@
              "video_duration": 600
          }
        ]
-     } 
-    }
+     }
   ],
   "trailer": {
     "logo_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
