@@ -1,121 +1,363 @@
 {
-  "channels": [
-     {
-        "id": 1,
-        "name": "Recommended"
-        
-     },
-     {
-        "id": 2,
-        "name": "Filmistaan"
-     },
-     {
-        "id": 3,
-        "name": "Sports Tv"
-     },    
-     {
-        "id": 4,
-        "name": "HaHa Tv"
-     },
-     {
-        "id": 5,
-        "name": "Travel Diaries"
-     },
-     {
-        "id": 6,
-        "name": "Daily Wishes"
-     },        
-     {
-        "id": 7,
-        "name": "The Bazaar"
-     },
-     {
-        "id": 8,
-        "name": "Soulful Quotes"
-     },
-     {
-        "id": 9,
-        "name": "Beats"
-     }
-  ],
-  "content": [
+  "content": {
+    "Music Videos": {
+      "Recommended": [{
+          "id": 101,
+          "caption": "Video 101",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 102,
+          "caption": "Video 102",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 103,
+          "caption": "Video 103",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 104,
+          "caption": "Video 104",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 105,
+          "caption": "Video 105",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Filmistaan": [{
+          "id": 106,
+          "caption": "Video 106",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 107,
+          "caption": "Video 107",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 108,
+          "caption": "Video 108",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 109,
+          "caption": "Video 109",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 110,
+          "caption": "Video 110",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Sports Tv": [{
+          "id": 111,
+          "caption": "Video 111",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 112,
+          "caption": "Video 112",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Haha Tv": [{
+          "id": 113,
+          "caption": "Video 113",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 114,
+          "caption": "Video 114",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ]
+    },
+    "Movies": {
+      "Recommended": [{
+          "id": 115,
+          "caption": "Video 115",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 116,
+          "caption": "Video 116",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Filmistaan": [{
+          "id": 117,
+          "caption": "Video 117",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 118,
+          "caption": "Video 118",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Sports Tv": [{
+          "id": 119,
+          "caption": "Video 119",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 120,
+          "caption": "Video 120",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 121,
+          "caption": "Video 121",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 122,
+          "caption": "Video 122",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Haha Tv": [{
+          "id": 123,
+          "caption": "Video 123",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 124,
+          "caption": "Video 124",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ]
+    },
+    "Videos": {
+      "Recommended": [{
+          "id": 125,
+          "caption": "Video 125",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 126,
+          "caption": "Video 126",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Filmistaan": [{
+          "id": 127,
+          "caption": "Video 127",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 128,
+          "caption": "Video 128",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ],
+      "Sports Tv": [{
+          "id": 129,
+          "caption": "Video 129",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 130,
+          "caption": "Video 130",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 131,
+          "caption": "Video 131",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        },
+        {
+          "id": 132,
+          "caption": "Video 132",
+          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+          "video_duration": 600
+        }
+      ]
+    }
+  },
+
+  "channels": [{
+      "id": 1,
+      "name": "Recommended"
+
+    },
     {
+      "id": 2,
+      "name": "Filmistaan"
+    },
+    {
+      "id": 3,
+      "name": "Sports Tv"
+    },
+    {
+      "id": 4,
+      "name": "HaHa Tv"
+    },
+    {
+      "id": 5,
+      "name": "Travel Diaries"
+    },
+    {
+      "id": 6,
+      "name": "Daily Wishes"
+    },
+    {
+      "id": 7,
+      "name": "The Bazaar"
+    },
+    {
+      "id": 8,
+      "name": "Soulful Quotes"
+    },
+    {
+      "id": 9,
+      "name": "Beats"
+    }
+  ],
+  "data_content": [{
       "id": 101,
       "channelId": 1,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 102,
       "channelId": 1,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 103,
       "channelId": 1,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 104,
       "channelId": 1,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 105,
       "channelId": 1,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 106,
       "channelId": 2,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 107,
       "channelId": 2,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 108,
       "channelId": 2,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 109,
       "channelId": 2,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
     },
     {
       "id": 110,
       "channelId": 2,
       "caption": "New Contest alert",
-      "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+      "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
       "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
-    }                
+    }
   ],
   "trailer": {
     "logo_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
     "id": 110,
     "channelId": 2,
     "caption": "Trailer for Recommended category",
-    "thumbnail_url" : "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
+    "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
     "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
   }
 }
