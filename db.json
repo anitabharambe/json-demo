@@ -31,7 +31,7 @@
           "video_duration": 600
         }
       ],
-      "Sports_Tv": [{
+      "SportsTv": [{
           "id": 111,
           "caption": "Video 111",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -46,7 +46,7 @@
           "video_duration": 600
         }
       ],
-      "Haha_Tv": [{
+      "HahaTv": [{
           "id": 113,
           "caption": "Video 113",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -93,7 +93,7 @@
           "video_duration": 600
         }
       ],
-      "Sports_Tv": [{
+      "SportsTv": [{
           "id": 119,
           "caption": "Video 119",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -108,7 +108,7 @@
           "video_duration": 600
         }
       ],
-      "Haha_Tv": [{
+      "HahaTv": [{
           "id": 123,
           "caption": "Video 123",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -155,7 +155,7 @@
           "video_duration": 600
         }
       ],
-      "Sports_Tv": [{
+      "SportsTv": [{
           "id": 129,
           "caption": "Video 129",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
