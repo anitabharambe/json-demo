@@ -1,5 +1,5 @@
 {
-  "contents": {
+  "contents": [{
     "MusicVideos": {
       "Recommended": [{
           "id": 101,
@@ -171,13 +171,5 @@
         }
       ]
     }
-  },
-  "trailer": {
-    "logo_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-    "id": 110,
-    "channelId": 2,
-    "caption": "Trailer for Recommended category",
-    "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-    "content_source": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8"
-  }
+  }]
 }
