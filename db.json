@@ -16,20 +16,6 @@
           "video_duration": 600
         },
         {
-          "id": 103,
-          "caption": "Video 103",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 104,
-          "caption": "Video 104",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
           "id": 105,
           "caption": "Video 105",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -40,20 +26,6 @@
       "Filmistaan": [{
           "id": 106,
           "caption": "Video 106",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 107,
-          "caption": "Video 107",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 108,
-          "caption": "Video 108",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
           "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
           "video_duration": 600
@@ -221,20 +193,6 @@
         {
           "id": 130,
           "caption": "Video 130",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 131,
-          "caption": "Video 131",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 132,
-          "caption": "Video 132",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
           "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
           "video_duration": 600
