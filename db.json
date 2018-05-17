@@ -9,13 +9,6 @@
           "video_duration": 600
         },
         {
-          "id": 102,
-          "caption": "Video 102",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
           "id": 105,
           "caption": "Video 105",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
@@ -26,13 +19,6 @@
       "Filmistaan": [{
           "id": 106,
           "caption": "Video 106",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 109,
-          "caption": "Video 109",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
           "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
           "video_duration": 600
@@ -110,20 +96,6 @@
       "Sports Tv": [{
           "id": 119,
           "caption": "Video 119",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 120,
-          "caption": "Video 120",
-          "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
-          "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-          "video_duration": 600
-        },
-        {
-          "id": 121,
-          "caption": "Video 121",
           "thumbnail_url": "https://forums.imore.com/attachments/iphone-apps-games/40677d1382409766t-crop-video-square-instagram-crop-video-square-small-icon.png",
           "video_url": "http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8",
           "video_duration": 600
